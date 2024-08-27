@@ -1,2 +1,0 @@
-# profetico
-projeto ultima
